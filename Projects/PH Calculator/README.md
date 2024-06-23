@@ -1,0 +1,1 @@
+"This is a Brainstorming project for the Chemistry course of my University. I created a program that calculates the pH of a solution based on the concentration of hydrogen ions (H⁺) or hydroxide ions (OH⁻) provided by the user. Users can input the concentration or molarity of the acid or base."
