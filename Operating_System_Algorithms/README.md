@@ -63,10 +63,15 @@ A simulation of the deadlock avoidance strategy:
 
 ### Page Frame State Result
 7 7 Miss
+
 0 7 0 Miss
+
 1 7 0 1 Miss
+
 2 7 0 1 2 Miss
+
 0 7 0 1 2 Hit
+
 3 0 1 2 3 Miss
 ...
 
